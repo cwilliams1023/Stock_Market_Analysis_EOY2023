@@ -15,7 +15,18 @@ This analysis involves calculating moving averages (8MA & 21MA) and daily range,
 
 5. Market conditions
 
+
+![newplot](https://github.com/cwilliams1023/Stock_Market_Analysis_EOY2023/assets/121206979/217c3c80-e128-4e3d-baae-7aab1b3be614)
+![newplot (3)](https://github.com/cwilliams1023/Stock_Market_Analysis_EOY2023/assets/121206979/26a96a58-2bf9-4dec-a078-399f20a886b8)
+![newplot (2)](https://github.com/cwilliams1023/Stock_Market_Analysis_EOY2023/assets/121206979/f09c9463-e46f-4f9b-bb84-fac9ca6ce46f)
+![newplot (1)](https://github.com/cwilliams1023/Stock_Market_Analysis_EOY2023/assets/121206979/97996b58-c35a-45be-aa68-0807ba310fba)
+![newplot (4)](https://github.com/cwilliams1023/Stock_Market_Analysis_EOY2023/assets/121206979/a1418dab-3982-44f7-b3d4-b348cc88daa4)
+
+
+
 ## Key takeaways
 Crossing of 8MA and 21MA on a daily timeframe signals potential trend reversal. 
+
 Increased daily range during earnings seasons.
+
 Strong correlation identified between AAPL and QQQ
