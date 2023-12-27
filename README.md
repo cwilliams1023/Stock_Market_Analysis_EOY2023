@@ -1,1 +1,1 @@
-# Stock_Market_Analysis_EOY2023
+# Stock Market Analysis (6M)
